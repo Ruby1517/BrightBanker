@@ -1,0 +1,5 @@
+{
+  "/api/transactions/deposit/route": "app/api/transactions/deposit/route.js",
+  "/api/kid/route": "app/api/kid/route.js",
+  "/api/transactions/route": "app/api/transactions/route.js"
+}
